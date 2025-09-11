@@ -1,1 +1,2 @@
-Ban_Fix_Exe = 1
+owner fossil = 1
+
