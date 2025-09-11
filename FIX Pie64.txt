@@ -1,2 +1,3 @@
-owner fossil = 1
+owner fossil = 0
+
 
